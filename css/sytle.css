@@ -50,7 +50,10 @@ body {
 .subheader {
     float: right;
 }
-.image img{
+.image{
+    text-align: center
+}
+.image img {
     max-width:70vw;
     height:auto;
 
