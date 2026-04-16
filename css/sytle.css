@@ -50,3 +50,8 @@ body {
 .subheader {
     float: right;
 }
+.image img<{
+    max-width:70vw;
+    height:auto;
+
+}
